@@ -69,6 +69,11 @@ HREF is a HyperText Reference, while SRC is a Source Reference. src is used when
 * For example
  <img width="957" alt="Capture" src="https://user-images.githubusercontent.com/113935723/211089785-1bf222ba-7d3e-4081-87e0-6dc24ace8507.PNG">
  
-   Note:Any statement in js file can be ended with colon or not.
+Note:Any statement in js file can be ended with colon or not.  
+  
+  
+## There are further different concepts used in js file which are explained in separate folders of that repository!
+ 
+   
    
  
