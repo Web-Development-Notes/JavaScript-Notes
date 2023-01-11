@@ -1,4 +1,3 @@
-
 //Promise = object that encapsulates result of asynchronous operation
 //let asynchronous methods return values like synchronous methods
 //"I promise to return something in future"
