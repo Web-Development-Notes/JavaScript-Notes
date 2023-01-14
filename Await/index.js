@@ -15,7 +15,8 @@ async function loadFile()
 async function f1()
 {
     try{
-        let message=await loadFile();
+        let message=await loadFile();//await tells control to skip function further part,and run all code except than function in which await is used
+        //when await wait is completed and response came,then run from here that function ,after running whole code of program
         console.log(message);
     }
     catch(e)
