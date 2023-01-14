@@ -85,8 +85,7 @@ console.log("general print statement 3");
 // p.then (...).catch(...); is call to promise of p
  
 
-//resolve and reject respective functions 'then' and 'catch' are executed at end of program 
-//but at the end of the program resolves are executed first 
+//resolve and reject respective functions 'then' and 'catch' are executed when response comes from promise, 
 
 //but in case of setTimeout like in our code,resolve or reject is executed according to time given in parameter
 
