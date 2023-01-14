@@ -4,6 +4,7 @@
 //and then when await time is completed,that line is executed and further lines of that function are executed,
 //also if another await is also present,then control comes to it and execute that line when its wait is completed
 //Overall,when all lines in async function are executed,it then return reponse of promise
+
 //another then statment is executed then,for doing something on response of that promise
 
 console.log("This is start");
